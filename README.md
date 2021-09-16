@@ -5,3 +5,4 @@ kodi reposotry
 m3u file 
 other apk acsess
 picasotv.apk
+pdisk file acsess
